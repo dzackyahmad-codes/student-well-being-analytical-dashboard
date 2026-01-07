@@ -147,10 +147,6 @@ STREAMLIT-CODE/
 ├── DataDiscretization.py
 │
 ├── requirements.txt
-│
-├── Laporan Data Mining.pdf
-├── Panduan Penggunaan Aplikasi Data Mining.pdf
-├── Poster Data Mining.pdf
 ```
 
 ---
