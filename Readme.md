@@ -103,7 +103,7 @@ This project is supported by comprehensive documentation to provide deeper techn
 A complete technical report explaining the background, methodology, CRISP-DM implementation, experiments, and evaluation results.
 
 **Laporan Data Mining**
-📄 `img/Laporan Data Mining.pdf`
+📄 [Laporan Data Mining](img/Laporan%20Data%20Mining.pdf)
 
 ---
 
@@ -112,7 +112,7 @@ A complete technical report explaining the background, methodology, CRISP-DM imp
 A step-by-step guide on how to use the Streamlit-based analytical dashboard, including data upload, data processing stages, and interpretation of analytical results.
 
 **Panduan Penggunaan Aplikasi Data Mining**
-📄 `img/Panduan Penggunaan Aplikasi Data Mining.pdf`
+ [Panduan Penggunaan Aplikasi](img/Panduan%20Penggunaan%20Aplikasi%20Data%20Mining.pdf)
 
 ---
 
@@ -121,7 +121,7 @@ A step-by-step guide on how to use the Streamlit-based analytical dashboard, inc
 A concise visual summary of the project, suitable for presentations, exhibitions, or academic showcases.
 
 **Poster Data Mining**
-📄 `img/Poster Data Mining.pdf`
+📄 [Poster Data Mining](img/Poster%20Data%20Mining.pdf)
 
 ---
 
