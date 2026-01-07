@@ -92,6 +92,45 @@ The system is designed to help **lecturers, academic advisors, and university de
 
 ---
 
+## 📄 Documentation & Supporting Materials
+
+This project is supported by comprehensive documentation to provide deeper technical insights, usage guidance, and academic context.
+
+---
+
+### 📘 Project Report
+
+A complete technical report explaining the background, methodology, CRISP-DM implementation, experiments, and evaluation results.
+
+**Laporan Data Mining**
+📄 `Laporan Data Mining.pdf`
+
+---
+
+### 🧭 User Guide
+
+A step-by-step guide on how to use the Streamlit-based analytical dashboard, including data upload, data processing stages, and interpretation of analytical results.
+
+**Panduan Penggunaan Aplikasi Data Mining**
+📄 `Panduan Penggunaan Aplikasi Data Mining.pdf`
+
+---
+
+### 🖼️ Project Poster
+
+A concise visual summary of the project, suitable for presentations, exhibitions, or academic showcases.
+
+**Poster Data Mining**
+📄 `Poster Data Mining.pdf`
+
+---
+
+### 💡 Notes
+
+These supporting materials demonstrate the project’s end-to-end data mining workflow, from raw data processing to automated insight generation and actionable recommendations (wisdom level), making it suitable for both academic evaluation and real-world decision support systems.
+
+---
+
 ## 🗂️ Project Structure
 
 ```
